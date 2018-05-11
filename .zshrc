@@ -94,4 +94,4 @@ export PATH="/opt/metasploit-framework/bin:/home/luke/.cabal/bin:$PATH"
    # Example aliases
    # alias zshconfig="mate ~/.zshrc"
    # alias ohmyzsh="mate ~/.oh-my-zsh"
-alas config='/usr/bin/git --git-dir=/home/luke/.dotfiles/ --work-tree=/home/luke'
+alias config='/usr/bin/git --git-dir=/home/luke/.dotfiles/ --work-tree=/home/luke'
