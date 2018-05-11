@@ -1,0 +1,336 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/luke/.config/" . "neomutt/")
+ ("/home/luke/.local/share/" . "fonts/")
+ ("/home/luke/Documents/Websites/princesses/" . "app/")
+ ("/home/luke/Documents/Websites/" . "princesses/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/selenium-webdriver/node_modules/" . "adm-zip/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/selenium-webdriver/" . "node_modules/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/" . "webdriver-manager/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/" . "node_modules/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/chromedriver/" . "node_modules/")
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/" . "protractor/")
+ ("/home/luke/Documents/Angular/angular-phonecat/" . "node_modules/")
+ ("/home/luke/Documents/Rails/blog/app/views/" . "welcome/")
+ ("/home/luke/Documents/Rails/blog/app/" . "views/")
+ ("/home/luke/Documents/Rails/blog/" . "config/")
+ ("/home/luke/Documents/Rails/" . "blog/")
+ ("/home/luke/Documents/Angular/test-app/src/" . "app/")
+ ("/home/luke/Documents/Angular/test-app/" . "src/")
+ ("/home/luke/Documents/Angular/" . "angular-phonecat/")
+ ("/home/luke/.local/" . "share/")
+ ("/home/luke/Documents/University/casestudies/" . "Week7/")
+ ("/home/luke/Documents/eclipse-workspace/mywork/src/" . "mywork/")
+ ("/home/luke/Documents/eclipse-workspace/mywork/" . "src/")
+ ("/home/luke/Documents/eclipse-workspace/" . "mywork/")
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/" . "digipack/")
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/" . "keymaps/")
+ ("/home/luke/Documents/qmk_firmware/keyboards/" . "iris/")
+ ("/home/luke/Documents/qmk_firmware/" . "keyboards/")
+ ("/home/luke/Downloads/sbagen/" . "sbagen-1.4.4/")
+ ("/home/luke/Downloads/" . "sbagen-alsa-master/")
+ ("/home/luke/Documents/University/" . "casestudies/")
+ ("/home/luke/Documents/Rust/projects/" . "hello_world/")
+ ("/home/luke/Documents/Rust/" . "projects/")
+ ("/" . "home/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/" . "parallelCollections/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/" . "scalania/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/" . "japila/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/" . "pl/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/" . "scala/")
+ ("/home/luke/Documents/Scala/scalania/exercises/src/" . "main/")
+ ("/home/luke/Documents/Scala/scalania/exercises/" . "src/")
+ ("/home/luke/Documents/Scala/scalania/" . "exercises/")
+ ("/home/luke/.sbt/1.0/" . "plugins/")
+ ("/home/luke/.sbt/" . "1.0/")
+ ("/home/luke/.emacs.d/elpa/" . "org-20180103/")
+ ("/home/" . "luke/")
+ ("/home/luke/Documents/Scala/hello/src/main/scala/" . "example/")
+ ("/home/luke/Documents/Scala/hello/src/main/" . "scala/")
+ ("/home/luke/Documents/Scala/hello/src/" . "main/")
+ ("/home/luke/Documents/Scala/hello/" . "src/")
+ ("/home/luke/Documents/Scala/" . "scalania/")
+ ("/home/luke/Documents/lisp-koans/" . "koans/")
+ ("/home/luke/.stumpwm.d/modules/modeline/" . "battery-portable/")
+ ("/home/luke/.stumpwm.d/modules/" . "modeline/")
+ ("/home/luke/.stumpwm.d/" . "modules/")
+ ("/home/luke/Documents/" . "University/")
+ ("/home/luke/.emacs.d/" . "elisp/")
+ ("/home/luke/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/luke/Documents/University/casestudies/Week9/"
+ "/home/luke/Documents/University/casestudies/Week7/"
+ "/home/luke/Documents/University/casestudies/"
+ "/home/luke/.config/neomutt/"
+ "/home/luke/Documents/University/progfun/Ass1/"
+ "/home/luke/Documents/University/casestudies/Week4/"
+ "/home/luke/"
+ "/home/luke/.emacs.d/elisp/"
+ "/home/luke/Documents/Websites/princesses/app/"
+ "/home/luke/.local/share/fonts/"
+ "/home/luke/Documents/Websites/princesses/"
+ "/home/luke/Documents/University/progfun/"
+ "/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/digipack/"
+ "/home/luke/Documents/Resume/"
+ "/home/luke/Documents/Angular/angular-phonecat/"
+ "/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/webdriver-manager/"
+ "/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/semver/"
+ "/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/"
+ "/home/luke/Documents/Angular/angular-phonecat/node_modules/chromedriver/"
+ "/home/luke/Documents/Angular/angular-phonecat/e2e-tests/"
+ "/home/luke/Documents/Rails/blog/config/"
+ "/home/luke/Documents/Rails/blog/app/views/welcome/"
+ "/home/luke/Documents/Angular/test-app/src/app/"
+ "/home/luke/Documents/University/casestudies/Week3/"
+ "/home/luke/.emacs.d/"
+ "/home/luke/.themes/.configure/gtk-3.0/"
+ "/home/luke/Documents/University/casestudies/Week2/"
+ "/home/luke/.emacs.d/elpa/org-20180103/"
+ "/home/luke/Documents/Java/"
+ "/home/luke/Documents/"
+ "/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/default/"
+ "/home/luke/Documents/eclipse-workspace/mywork/src/mywork/"
+ "/home/luke/Documents/qmk_firmware/keyboards/iris/"
+ "/home/luke/Documents/qmk_firmware/keyboards/iris/rev2/"
+ "/home/luke/Downloads/sbagen-alsa-master/"
+ "/home/luke/Downloads/sbagen/sbagen-1.4.4/"
+ "/home/luke/Downloads/sbagen-1.4.5/"
+ "/home/luke/Documents/Rust/projects/hello_world/"
+ "/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/parallelCollections/"
+ "/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/euler/"
+ "/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/collection/"
+ "/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/algorithms/"
+ "/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/s99/"
+ "/home/luke/.emacs.d/elpa/scala-mode-1.0.0/"
+ "/home/luke/Documents/Scala/hello/"
+ "/home/luke/.sbt/1.0/plugins/"
+ "/home/luke/Documents/Scala/hello/src/main/scala/example/"
+ "/home/luke/.emacs.d/elpa/ensime-2.0.2/"
+ "/home/luke/Documents/thinking-into-results/"
+ "/home/luke/Documents/lisp-koans/koans/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "notes.org"
+ "Outline.org"
+ "neomuttrc"
+ "Paper.org"
+ ".mailcap"
+ "authors.txt"
+ "LandVille.java"
+ "HowToPrepareAWinningJobApplication.org"
+ ".Xdefaults"
+ "iosevka.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/luke/Documents/University/casestudies/" (23264 8313 429678 637000) "../" "Project_Plan.tex" "Minutes 21_3_18.pdf" "week2_readings.pdf" "Week7/" "Outline.out" "./" "week2_readings.tex~" "Week2/" "Outline.org" "Project_Plan.log" "Outline.log" "week2_readings.tex" "Paper.org" "Project_Plan.pdf" "week2_readings.org~" "week2_lecture.org~" "Outline.synctex.gz" "week2_lecture.tex" "Week8/" "Week4/" "Paper.org~" "Outline.toc" "Week5/" "Outline.t2d/" "week2_readings.org" "Outline.bbl" "Week3/" "Outline.blg" "Project_Plan.synctex.gz" "missfont.log" "week2_lecture.pdf" "minutes 4_20_18.pdf" "Week6/" "Outline.bib" "Outline.pdf" "Project_Plan.aux" "Outline.aux" "report-outline.pdf" "week2_lecture.tex~" "Minutes, 30_3_18.pdf" "week2_lecture.org" "Outline.tex")
+
+ ("/home/luke/" (23273 26878 85295 372000) ".xsession-errors" ".Xdefaults" ".zcompdump-susanoo-5.5.1" "../" ".armitage.prop" "2018-04-11-175752_1920x1080_scrot.png" ".audacity-data/" ".ghc/" ".node_repl_history" "msfvupdate" ".wget-hsts" ".stumpwm.d/" ".xinitrc" ".Xresources" ".bash_history" ".wicd/" ".msf4/" ".config/" ".oh-my-zsh/" ".swt/" "2018-05-02-144205_1920x1080_scrot.png" "2018-04-17-141406_1920x1080_scrot.png" ".jars/" ".sbt/" ".bundle/" ".install4j" "./" ".thumbnails/" ".cabal/" ".pki/" "Calibre Library/" "IosevkaConfigGen.hs" ".BurpSuiteCommunity/" ".java/" "R/" ".local/" ".zsh_history" "2018-04-20-002416_1920x1080_scrot.png" ".slime-history.eld" ".elinks/" ".fehbg" ".eclipse/" ".android/" ".urxvt/" ".gnome/" "POP.pdf" ".certs/" ".viminfo" "msfinstall" ".mplayer/" ".jssc/" "Downloads/" ".bash_profile" "stumpwm/" ".mbsync/" ".bashrc" ".mbsyncrc" ".ssh/" ".mozilla/" ".inputrc" "2018-04-23-174800_1920x1080_scrot.png" ".emacs" "Shuffle-Move/" ".gtk-bookmarks" ".macromedia/" ".cache/" "2018-04-23-224418_1920x1080_scrot.png" "mail.log" ".zshrc.pre-oh-my-zsh" "nds_backup/" "spek/" "quicklisp/" ".steampath" "VirtualBox VMs/" ".gnupg/" ".Xresources~" ".zcompdump-susanoo-5.4.2" ".irssi/" ".Xauthority" ".wpa_cli_history" ".oracle_jre_usage/" ".rstudio-desktop/" "supportportswiggernet.crt" "2018-04-12-003531_1920x1080_scrot.png" ".steampid" ".npm/" ".john/" "2018-04-23-184100_1920x1080_scrot.png" ".arduino15/" "2018CheckpointChallengeCaseStudies.png" "Contacts/" ".stumpwmrc" ".stumpwmrc~" "armitage/" "void-packages/" ".dbus/" "2018-04-18-194043_1920x1080_scrot.png" ".mu/" ".lesshst" "Arduino/" "2018-04-18-194106_1920x1080_scrot.png" ".zcompdump-susanoo-5.5" "2018-04-25-140718_1920x1080_scrot.png" ".gem/" "rgbds/" ".gitconfig" ".tooling/" "2018-04-12-003530_1920x1080_scrot.png" ".BurpSuite/" ".xscreensaver" ".node-gyp/" ".bash_logout" "Documents/" ".Rhistory" ".ratpoison_history" ".ivy2/" ".tor/" ".sbclrc" ".coursier/" ".msmtprc" ".m2/" ".vbam/" "Desktop/" "Mail/" ".emacs.d/" ".zcompdump" "steam_recovery_code" ".codeintel/" ".stalonetrayrc" ".mailpass.gpg" ".var/" ".xmonad/" ".PySolFC/" ".xinitrc~" ".adobe/" ".zshrc~" "quicklisp.lisp" ".slime/" ".emacs~" ".wine/" ".rustup/" ".zshrc" "bandit13.password" ".steam/" ".ammonite/" ".w3m/" ".gimp-2.8/" ".themes/" "2018-04-18-194042_1920x1080_scrot.png" "jdee-server/" ".zsh-update" ".texlive2017/" "thing.pct" ".dmenu_cache")
+
+ ("/home/luke/Documents/" (23261 34119 514360 640000) "lisp-koans/" "../" "thinking-into-results/" "University/" "nick_details.org" "checkpointchallenge" "./" "eclipse-workspace/" "Angular/" "SublimeProjs/" "PCL/" "Scala/" "Websites/" "Pre screening questions.docx" "Rails/" "NostraData Job Description -Data Engineer -1.docx" "Java/" "qmk_firmware/" "LSDJ/" "sbagen/" "sbt/" "Rust/" "GB/" "Resume/")
+
+ ("/home/luke/.config/neomutt/" (23255 2982 866032 897000) "../" ".mailcap" "neomuttrc~" "./" "passwords.gpg" "colors.muttrc" ".mailcap~" "gpg.rc" "base16.muttrc" "neomuttrc")
+
+ ("/home/" (23110 55186 382813 545000) "../" "./" "lost+found/" "luke/")
+
+ ("/home/luke/.emacs.d/" (23255 1108 597952 54000) "../" "abbrev_defs" "./" "semanticdb/" "emacs.css" "ido.last" "auto-save-list/" "elpa/" "network-security.data" "elisp/" "ido.last~" "eshell/")
+
+ ("/home/luke/Documents/University/casestudies/Week7/" (23255 1108 563952 287000) "../" "notes.org" "./" "notes.pdf" "notes.t2d/" "notes.tex~" "notes.org~" "notes.tex")
+
+ ("/home/luke/.config/" (23254 9465 685959 868000) "gtk-2.0/" "../" "galculator/" "libreoffice/" "gtk-3.0/" "discord/" "./" "chromium/" "google-chrome/" "kitty/" "pavucontrol.ini" "qBittorrent/" "QtProject.conf" "spotify/" "dconf/" "fontconfig/" "mgba/" "htop/" "menus/" "VirtualBox/" "gvbam/" "krusaderrc" "mimeapps.list" "font-manager/" "neomutt/" "configstore/" "RStudio/" "pulse/" "calibre/" "sublime-text-3/")
+
+ ("/home/luke/Documents/thinking-into-results/" (23135 11106 199796 803000) "../" "./" "lesson2.org" "lesson1.org" "lesson2.org~" "personal-want.txt~" "personal-want.txt")
+
+ ("/home/luke/.emacs.d/elpa/ensime-2.0.2/" (23138 50070 178096 817000) "ensime-popup.el" "../" "ensime-compat.elc" "ensime-eldoc.elc" "ensime-http.elc" "ensime-config.elc" "ensime-stacktrace.el" "ensime-helm.el" "ensime-undo.el" "ensime-inf.elc" "ensime-helm.elc" "ensime-editor.elc" "ensime-vars.el" "./" "ensime-util.el" "ensime-semantic-highlight.elc" "ensime-pkg.el" "ensime-http.el" "ensime-notes.el" "ensime-search.el" "ensime-doc.el" "ensime-autoloads.el" "ensime-client.el" "ensime-comint-utils.el" "ensime-expand-region.el" "ensime-company.el" "ensime-ivy.el" "ensime-ui.el" "ensime-eldoc.el" "ensime-startup.el" "ensime-startup.elc" "ensime.el" "ensime-popup.elc" "ensime-company.elc" "ensime-doc.elc" "ensime-comint-utils.elc" "ensime-overlay.elc" "ensime-config.el" "ensime-undo.elc" "ensime-compat.el" "ensime-mode.elc" "ensime-semantic-highlight.el" "ensime-stacktrace.elc" "ensime.elc" "ensime-macros.elc" "ensime-sbt.elc" "ensime-macros.el" "ensime-auto-complete.elc" "ensime-model.el" "ensime-completion-util.el" "ensime-mode.el" "ensime-overlay.el" "ensime-search.elc" "ensime-client.elc" "ensime-debug.el" "ensime-vars.elc" "ensime-auto-complete.el" "ensime-notes.elc" "ensime-editor.el" "ensime-inf.el" "ensime-refactor.elc" "ensime-ivy.elc" "ensime-refactor.el" "ensime-completion-util.elc" "ensime-ui.elc" "ensime-sbt.el" "ensime-model.elc" "ensime-debug.elc" "ensime-util.elc")
+
+ ("/home/luke/Documents/Resume/" (23245 64487 589522 136000) "resume_jaycar.log" "friggeri-cv.cls" "cv_10.out" "../" "resume_pentest.tex" "friggeri-cv.cls~" "q.log" "./" "resume_pentest.out" "cv_10.run.xml" "resume_jaycar.bcf" "cv_10.log" "cv_10.bcf" "resume_jaycar.run.xml" "resume_jaycar.aux" "cv_10.aux" "resume_jaycar.out" "resume_jaycar.tex" "cv_10.tex" "jaycar_cover_letter.txt" "resume_jaycar.pdf" "resume_pentest.bcf" "resume_pentest.aux" "missfont.log" "resume_pentest.pdf" "cv_10.tex~" "cv_10.pdf" "resume_pentest.run.xml" "resume_pentest.log")
+
+ ("/home/luke/Documents/University/progfun/" (23235 64071 821212 835000) "IncTest.java~" "../" "StringSub2.java~" "HelloWorld.java~" "Max.java" "./" "ScannerHello.class" "HelloWorld.java" "CompareTest.class" "StringSub2.class" "ScannerTest.java" "CompareTest.java~" "Week5.class" "ScannerTest.java~" "StringSub2.java" "Task4.java" "SalaryComputer.java~" "PyramidPrinter.java" "SalaryComputer.java" "MarkCalc.java" "bin/" "Ass1/" "Ass1.zip" "IncTest.class" "ScannerHello.java" "CompareTest.java" "Task4.class" "Task4.java~" "IncTest.java" "Week5.java" "plot.tex" "HelloWorld.class" "Max.class" "Max.java~" "SalaryComputer.class" "ScannerTest.class" "LandVille.zip")
+
+ ("/home/luke/Documents/Websites/princesses/" (23219 30998 643733 620000) "../" "./" "protractor.conf.js" "package.json" ".angular-cli.json" "e2e/" "node_modules/" "tsconfig.json" "tslint.json" "karma.conf.js" "README.md" "src/" "package-lock.json" ".gitignore" ".editorconfig" ".git/")
+
+ ("/home/luke/.local/share/fonts/" (23219 56652 266957 0) "../" "FiraCode-Retina.ttf" "IosevkaXLFD/" "FiraCode-Light.ttf" "./" "IosevkaNerd/" "FiraCode-Bold.ttf" "download.sh" ".uuid" "download.sh~" "FiraCode-Medium.ttf" "Iosevka/" "FiraCode-Regular.ttf")
+
+ ("/home/luke/.emacs.d/elisp/" (23219 23810 472014 576000) "../" "iosevka.el~" "init.el" "my-org.el" "./" "function.el" "style.el" "my-erc.el~" "init.el~" "my-org.el~" "style.el~" "packages.el" "my-erc.el" "erc.el~" "function.el~" "iosevka.el" "packages.el~")
+
+ ("/home/luke/Documents/University/casestudies/Week4/" (23226 49374 895309 401000) "../" "HowToPrepareAWinningJobApplication.tex~" "./" "#HowToPrepareAWinningJobApplication.org#" "HowToPrepareAWinningJobApplication.pdf" "HowToPrepareAWinningJobApplication.org~" "HowToPrepareAWinningJobApplication.tex" "HowToPrepareAWinningJobApplication.org")
+
+ ("/home/luke/Documents/University/progfun/Ass1/" (23247 13806 588450 522000) "../" "LandVille.class" "LandVille.log" ".classpath" "./" ".project" "LandVille.java" "bin/" "authors.txt")
+
+ ("/home/luke/Documents/University/" (23237 55186 382170 198000) "../" "./" "introstats/" "casestudies/" "bin/" "progfun/")
+
+ ("/home/luke/.config/kitty/" (23219 48938 21723 838000) "../" "./" "kitty.conf" "kitty.conf~")
+
+ ("/home/luke/Documents/Websites/princesses/app/" (23219 22101 614191 372000) "../" "./" "app.module.ts" "app.module.ts~" ".#app.module.ts")
+
+ ("/home/luke/.local/share/" (23219 20560 800115 386000) "../" "icons/" "./" "fonts/" "WebpageIcons.db" "data/" "bower/" "mime/" "webkitgtk/" "applications/" "recently-used.xbel")
+
+ ("/home/luke/Documents/Websites/" (23219 19860 903135 886000) "../" "princesses/" "./")
+
+ ("/home/luke/Documents/lisp-koans/koans/" (23107 18499 829002 662000) "asserts.lsp" "../" "control-statements.lsp" "loops.lsp" "atoms-vs-lists.lsp" "format.lsp" "scope-and-extent.lsp" "scoring-project.lsp" "./" "clos.lsp" "equality-distinctions.lsp" "lists.lsp" "vectors.lsp" "structures.lsp" "GREED_RULES.txt" "hash-tables.lsp" "type-checking.lsp" "strings.lsp" "arrays.lsp" "condition-handlers.lsp" "threads.lsp" "extra-credit.lsp" "triangle-project.lsp" "multiple-values.lsp" "functions.lsp" "mapcar-and-reduce.lsp" "special-forms.lsp" "variables-parameters-constants.lsp" "iteration.lsp" "macros.lsp" "nil-false-empty.lsp" "evaluation.lsp" "dice-project.lsp")
+
+ ("/home/luke/.stumpwm.d/modules/modeline/battery-portable/" (23121 61076 517201 835000) "../" "./" "package.lisp" "#README.org#" "README.org" "battery-portable.asd" "battery-portable.lisp")
+
+ ("/home/luke/Documents/University/casestudies/Week3/" (23208 57195 201492 286000) "../" "./" "MilitaryCyberOperations.tex" "MilitaryCyberOperations.org~" "MilitaryCyberOperations.tex~" "MilitaryCyberOperations.pdf" "MilitaryCyberOperations.org" "CurrentEvents.org~" "CurrentEvents.org")
+
+ ("/home/luke/Documents/Angular/test-app/src/app/" (23216 9379 915151 257000) "app.component.ts" "../" "./" "app.module.ts" "app.component.html" "app.component.css" "app.component.spec.ts")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/chromedriver/" (23216 15586 839002 842000) "LICENSE.txt" "../" "./" "lib/" "package.json" "node_modules/" "bin/" "README.md" "install.js")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/semver/" (23216 15587 27001 591000) "range.bnf" "../" "./" "package.json" "bin/" "README.md" "semver.js" "LICENSE")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/webdriver-manager/" (23216 15850 717246 358000) "config.json" "../" "./" "package.json" "built/" "gulpfile.js" "CONTRIBUTING.md" "bin/" "README.md" "CHANGELOG.md" "docs/" "LICENSE" "selenium/")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/" (23216 15820 592446 918000) "scripts/" "e2e-tests/" "../" ".travis.yml" "./" "bower.json" ".jshintrc" "app/" "package.json" "node_modules/" "karma.conf.js" "README.md" ".bowerrc" "package-lock.json" ".gitignore" "LICENSE" ".git/")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/node_modules/" (23216 15587 377999 255000) "../" "semver/" "./" ".bin/" "webdriver-manager/")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/protractor/" (23216 15586 839002 842000) "exampleTypescript/" "../" "./" "example/" "package.json" "built/" "node_modules/" "tsconfig.json" "gulpfile.js" "CONTRIBUTING.md" "tslint.json" "bin/" "README.md" "CHANGELOG.md" "LICENSE")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/" (23216 15589 897982 484000) "hawk/" "ansi-styles/" "for-in/" "eventemitter3/" "agent-base/" "remove-trailing-separator/" "on-finished/" "bytes/" "kew/" "combined-stream/" "http-server/" "pinkie/" "p-map/" "sigmund/" "process-nextick-args/" "del/" "is-equal-shallow/" "ws/" "array-unique/" "fs.realpath/" "xmlhttprequest-ssl/" "isexe/" "which/" "ee-first/" "tmp/" "jasmine-core/" "qs/" "sshpk/" "async-each/" "for-own/" "media-typer/" "xml2js/" "semver/" "arraybuffer.slice/" "inflight/" "kind-of/" "delayed-stream/" "path-is-inside/" "ini/" "co/" "chalk/" "strip-ansi/" "brace-expansion/" "https-proxy-agent/" "core-util-is/" "ecc-jsbn/" "getpass/" "has-ansi/" "base64-arraybuffer/" "is-primitive/" "body-parser/" "backo2/" "selenium-webdriver/" "utils-merge/" "json-stringify-safe/" "supports-color/" "blob/" "minimist/" "engine.io-parser/" "safe-buffer/" "yauzl/" "once/" "isarray/" "preserve/" "json-schema/" "normalize-path/" "json3/" "cookie/" "fast-deep-equal/" "concat-map/" "to-array/" "assert-plus/" "options/" "jasmine/" "minimatch/" "ansi-regex/" "set-immediate-shim/" "wtf-8/" "braces/" "json-schema-traverse/" "har-validator/" "engine.io/" "escape-string-regexp/" "http-signature/" "aws4/" "escape-html/" "lodash/" "yallist/" "repeat-element/" "string_decoder/" "har-schema/" "lru-cache/" "batch/" "after/" "arr-diff/" "expand-brackets/" "concat-stream/" "content-type/" "source-map-support/" "anymatch/" "requires-port/" "karma-chrome-launcher/" "asn1/" "tough-cookie/" "core-js/" "arr-flatten/" "os-tmpdir/" "yeast/" "ecstatic/" "component-emitter/" "request/" "socket.io-parser/" "asynckit/" "sax/" "filename-regex/" "binary-extensions/" "extract-zip/" "adm-zip/" "debug/" "better-assert/" "chromedriver/" "is-path-in-cwd/" "fd-slicer/" "has-binary/" "@types/" "raw-body/" "extsprintf/" "glob/" "mkdirp/" "pend/" "is-dotfile/" "is-posix-bracket/" "isbinaryfile/" "url-join/" "chokidar/" "iconv-lite/" "async/" "optimist/" "expand-braces/" "globby/" "caseless/" "is-typedarray/" "fill-range/" "corser/" "is-extglob/" "regex-cache/" "graceful-fs/" "parseuri/" "repeat-string/" "wordwrap/" "socket.io-adapter/" "ent/" "is-binary-path/" "dom-serialize/" "http-proxy/" "he/" "punycode/" "bluebird/" "rimraf/" "arrify/" "union/" "tunnel-agent/" "mime-db/" "path-is-absolute/" "void-elements/" "jasminewd2/" "source-map/" "util-deprecate/" "performance-now/" "null-check/" "opener/" "randomatic/" "verror/" "statuses/" "cryptiles/" "ultron/" "negotiator/" "fast-json-stable-stringify/" "ajv/" "pinkie-promise/" "log4js/" "array-union/" "boom/" "isobject/" "karma/" "saucelabs/" "callsite/" "useragent/" "portfinder/" "is-buffer/" "glob-parent/" "glob-base/" "bcrypt-pbkdf/" "pify/" "micromatch/" "tweetnacl/" "accepts/" "is-glob/" "object-assign/" "socket.io/" "parseurl/" "engine.io-client/" "has-cors/" "fs-access/" "is-path-cwd/" "readable-stream/" "bower/" "inherits/" "extglob/" "is-number/" "mime/" "array-uniq/" "karma-firefox-launcher/" "aws-sign2/" "xmlbuilder/" "unpipe/" "wrappy/" "type-is/" "typedarray/" "object-component/" "karma-jasmine/" "uuid/" "object.omit/" "http-errors/" "expand-range/" "connect/" "indexof/" "protractor/" "custom-event/" ".bin/" "hoek/" "exit/" "component-bind/" "dashdash/" "finalhandler/" "readdirp/" "isstream/" "parseqs/" "component-inherit/" "is-path-inside/" "jsbn/" "sntp/" "depd/" "balanced-match/" "setprototypeof/" "mime-types/" "forever-agent/" "q/" "array-slice/" "stringstream/" "oauth-sign/" "parsejson/" "is-extendable/" "form-data/" "parse-glob/" "di/" "jsprim/" "socket.io-client/" "base64id/" "extend/" "ms/" "pseudomap/" "colors/" "encodeurl/" "../" "./")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/selenium-webdriver/node_modules/adm-zip/" (23216 15247 412261 89000) "../" "./" "headers/" "package.json" "util/" "methods/" "MIT-LICENSE.txt" "zipFile.js" "README.md" "test/" ".idea/" "adm-zip.js" "zipEntry.js")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/selenium-webdriver/node_modules/" (23216 15247 25263 663000) "../" "tmp/" "./" "adm-zip/")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/selenium-webdriver/" (23216 15247 245262 200000) "../" "phantomjs.js" "NOTICE" "CHANGES.md" "./" "safari.js" "testing/" "example/" "lib/" "opera.js" "error.js" "http/" "net/" "package.json" "io/" "edge.js" ".npmignore" "node_modules/" "remote/" "executors.js" "README.md" "test/" "ie.js" "index.js" "proxy.js" "chrome.js" "firefox/" "builder.js" "LICENSE")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/chromedriver/node_modules/" (23216 14806 647214 5000) "../" "del/" "./" "globby/" "pify/")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/node_modules/chromedriver/bin/" (23216 14806 860212 554000) "../" "./" "chromedriver")
+
+ ("/home/luke/Documents/Angular/angular-phonecat/e2e-tests/" (23216 14655 599243 858000) "../" "./" "protractor.conf.js" "scenarios.js" "README.md")
+
+ ("/home/luke/Documents/Angular/" (23216 14606 768576 930000) "../" "./" "test-app/" "angular-phonecat/")
+
+ ("/home/luke/Documents/Rails/blog/config/" (23216 9565 630913 888000) "../" "routes.rb~" "./" "environment.rb" "secrets.yml" "locales/" "environments/" "database.yml" "routes.rb" "boot.rb" "application.rb" "spring.rb" "initializers/" "puma.rb" "cable.yml")
+
+ ("/home/luke/Documents/Rails/blog/app/views/welcome/" (23216 9517 977231 407000) "index.html.erb" "../" "./" "index.html.erb~")
+
+ ("/home/luke/Documents/Rails/blog/app/views/" (23216 9483 918458 336000) "../" "./" "welcome/" "layouts/")
+
+ ("/home/luke/Documents/Rails/blog/app/" (23216 9272 355867 809000) "../" "mailers/" "./" "controllers/" "views/" "channels/" "models/" "assets/" "jobs/" "helpers/")
+
+ ("/home/luke/Documents/Rails/blog/" (23216 9424 447854 565000) "config/" "../" "tmp/" "db/" "./" "lib/" "app/" "package.json" "Gemfile.lock" "public/" "Rakefile" "bin/" "README.md" "test/" "config.ru" "Gemfile" "vendor/" ".gitignore" "log/" ".git/")
+
+ ("/home/luke/Documents/Rails/" (23216 9272 335867 943000) "../" "./" "blog/")
+
+ ("/home/luke/Documents/Angular/test-app/src/" (23216 9101 553005 556000) "../" "styles.css" "index.html" "tsconfig.app.json" "./" "app/" "typings.d.ts" "main.ts" "environments/" "test.ts" "polyfills.ts" "favicon.ico" "assets/" "tsconfig.spec.json")
+
+ ("/home/luke/Documents/Angular/test-app/" (23216 9185 461446 648000) "../" "./" "protractor.conf.js" "package.json" ".angular-cli.json" "e2e/" "node_modules/" "tsconfig.json" "tslint.json" "karma.conf.js" "README.md" "src/" "package-lock.json" ".gitignore" ".editorconfig" ".git/")
+
+ ("/home/luke/.local/" (23086 53548 317622 671000) "../" "./" "share/")
+
+ ("/home/luke/.themes/" (23208 55832 327545 100000) "../" "./" "Orion/")
+
+ ("/home/luke/.themes/Orion/" (23208 55675 29894 328000) "../" "gtk-3.0/" "./")
+
+ ("/home/luke/.themes/Orion/gtk-3.0/" (23208 55751 371723 832000) "gtk.css~" "../" "./" "gtk.css")
+
+ ("/home/luke/Documents/University/casestudies/Week2/" (23208 53585 948340 182000) "../" "para.bib~" "Key encapsulation - Wikipedia.htm" "./" "Paraphrasing.pdf" "Paraphrasing.org" "#para.bib#" "Paraphrasing.tex~" "Paraphrasing.org~" "Key encapsulation - Wikipedia_files/" "nist.sp.800-56br1.pdf" "Paraphrasing.tex" "Paraphrasing.bbl" "para.bib" "RFC 5990 - Use of the RSA-KEM Key Transport Algorithm in the Cryptographic Message Syntax (CMS).htm")
+
+ ("/home/luke/.emacs.d/elpa/org-20180103/" (23208 37633 441924 768000) "ob-fortran.elc" "ob-org.elc" "org-compat.elc" "org-docview.elc" "org-element.elc" "org-rmail.elc" "org-lint.elc" "ob-gnuplot.elc" "org-bbdb.el" "org-table.el" "ob-keys.elc" "ox-man.elc" "ob-css.elc" "ob-lob.el" "org-feed.el" "ob-scheme.elc" "ob-forth.el" "ob-core.el" "org-faces.el" "org-capture.el" "org-w3m.elc" "ob-lua.el" "org-src.el" "org-ctags.el" "org-mouse.el" "org-entities.elc" "ob-emacs-lisp.el" "ox-publish.el" "org-timer.elc" "ob-lilypond.elc" "ox-latex.elc" "etc/" "ob-tangle.el" "ob-lua.elc" "ob-processing.el" "ob-matlab.el" "orgcard.pdf" "ob-screen.elc" "org-attach.elc" "ob-vala.el" "ob-comint.el" "org-archive.elc" "org-info.el" "ob-sql.el" "org-bibtex.el" "ox-bibtex.el" "ob-exp.elc" "ox-latex.el" "org-info.elc" "ox-odt.el" "ob-picolisp.el" "ob-python.elc" "ob-clojure.el" "ob-js.el" "org-install.el" "org" "org-mhe.elc" "ob-dot.elc" "ob-J.elc" "ob-abc.el" "ob-matlab.elc" "org-duration.elc" "ob-haskell.el" "ob-perl.el" "org-list.el" "ob.el" "ob-org.el" "ob-ledger.elc" "org-list.elc" "org-datetree.el" "ob-awk.elc" "ox-html.elc" "ob-coq.el" "ob-shen.el" "org-pcomplete.el" "org-w3m.el" "ob-ebnf.elc" "ob-groovy.el" "ob-fortran.el" "ob-ruby.el" "ob-asymptote.elc" "org-gnus.elc" "ob-hledger.elc" "ob-sqlite.elc" "org-gnus.el" "org-version.el" "ox-odt.elc" "ob-lisp.el" "ob-coq.elc" "ob-ref.elc" "README_ELPA" "org-eshell.elc" "ox-icalendar.el" "org-protocol.el" "ob-sed.el" "ob.elc" "ox.elc" "COPYING" "org.el" "ob-ocaml.el" "ob-exp.el" "ob-table.elc" "ob-ditaa.elc" "org-footnote.elc" "ox-html.el" "ob-sed.elc" "ob-C.elc" "org-autoloads.el" "ob-sqlite.el" "ob-haskell.elc" "ob-calc.el" "org-habit.el" "ob-hledger.el" "org-archive.el" "ob-makefile.elc" "ob-R.elc" "org-pcomplete.elc" "ob-groovy.elc" "ob-mscgen.elc" "ob-java.elc" "org-pkg.el" "ob-io.el" "ox-md.el" "ob-processing.elc" "ob-latex.el" "org-feed.elc" "ob-perl.elc" "org-irc.el" "ox-publish.elc" "org-capture.elc" "ob-calc.elc" "ob-shell.elc" "org-colview.el" "ob-ledger.el" "ob-emacs-lisp.elc" "ox-texinfo.el" "ob-lilypond.el" "org-footnote.el" "ob-eval.el" "org-faces.elc" "org-inlinetask.elc" "org-attach.el" "ob-awk.el" "ob-python.el" "ox-ascii.el" "ob-latex.elc" "ob-lisp.elc" "ob-screen.el" "org-inlinetask.el" "ob-plantuml.elc" "org-eshell.el" "ox-texinfo.elc" "ox-man.el" "ob-gnuplot.el" "ob-maxima.elc" "ob-C.el" "ob-ref.el" "ob-tangle.elc" "ox-org.el" "ob-shen.elc" "ob-ruby.elc" "ob-sql.elc" "ob-dot.el" "org-macro.elc" "ob-sass.el" "org-mhe.el" "ob-sass.elc" "org-indent.elc" "ob-forth.elc" "org-loaddefs.el" "org-mobile.elc" "ob-stan.elc" "ob-J.el" "org-habit.elc" "org-timer.el" "org-lint.el" "org-macs.el" "ob-scheme.el" "ob-io.elc" "org-duration.el" "ob-shell.el" "ob-plantuml.el" "ob-R.el" "org-ctags.elc" "org-macro.el" "org-mouse.elc" "ob-css.el" "ob-keys.el" "org-eww.el" "ob-java.el" "org-plot.elc" "org-compat.el" "org-plot.el" "org-clock.el" "ob-vala.elc" "dir" "org-crypt.elc" "org-id.elc" "org-eww.elc" "ob-picolisp.elc" "org-element.el" "ob-mscgen.el" "org-rmail.el" "ob-stan.el" "org-crypt.el" "org-clock.elc" "org-macs.elc" "ob-abc.elc" "org-agenda.el" "org-datetree.elc" "ox-beamer.el" "org-id.el" "org-irc.elc" "ob-ditaa.el" "ox-icalendar.elc" "org-bbdb.elc" "ob-core.elc" "org.elc" "ox-beamer.elc" "ob-lob.elc" "ob-comint.elc" "ob-maxima.el" "ob-js.elc" "ox-md.elc" "ob-octave.el" "ob-clojure.elc" "org-indent.el" "ob-table.el" "org-protocol.elc" "org-table.elc" "org-docview.el" "ob-ebnf.el" "org-mobile.el" "ob-ocaml.elc" "ob-asymptote.el" "ox-ascii.elc" "org-colview.elc" "org-bibtex.elc" "ob-octave.elc" "org-src.elc" "ob-makefile.el" "org-agenda.elc" "ox-org.elc" "org-entities.el" "ob-eval.elc" "ox.el" "../" "./")
+
+ ("/home/luke/.emacs.d/elpa/" (23192 62185 554626 573000) "memoize-1.1/" "fancy-narrow-readme.txt" "../" "popup-0.5.3/" "org-20180103/" "popup-20160709.729/" "base16-theme-20171212.1621/" "dash-20171028.854/" "aggressive-indent-20171012.1107/" "./" "cargo-0.4.1/" "rust-mode-0.3.0/" "epl-0.9/" "toml-mode-20161107.1000/" "ess-17.11/" "s-20171102.227/" "rainbow-delimiters-20170929.432/" "origami-20180101.753/" "scala-mode-1.0.0/" "fancy-battery-20150101.404/" "gnupg/" "flycheck-31/" "bind-key-20171210.2125/" "yasnippet-0.12.2/" "browse-kill-ring-20171219.1108/" "jdee-20180218.919/" "color-theme-20080305.34/" "slime-20171230.1630/" "ctable-20171005.1711/" "company-0.9.4/" "archives/" "ess-20180227.1335/" "smartparens-20171201.242/" "use-package-20180108.1754/" "pkg-info-0.6/" "ess-smart-equals-20150201.2201/" "sbt-mode-1.0.1/" "macrostep-20161120.1306/" "w3m-20171221.2317/" "julia-mode-0.4.5/" "ensime-2.0.2/" "erc-image-20170909.312/" "ess-R-data-view-1.0/")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/digipack/" (23202 15685 679911 325000) "keymap.c~" "../" "#keymap.c#" "./" "rules.mk" "config.h" "keymap.c")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/default/" (23199 51239 258991 885000) "keymap.c~" "../" "./" "rules.mk" "config.h" "keymap.c")
+
+ ("/home/luke/Documents/Java/" (23200 54164 45434 137000) "../" "HelloWorld.java~" "./" "HelloWorld.java" "HelloWorld.class")
+
+ ("/home/luke/Documents/eclipse-workspace/mywork/src/mywork/" (23198 27008 818730 815000) "../" "./" "HelloWorld.java" "SimpleCalculator.java")
+
+ ("/home/luke/Documents/eclipse-workspace/mywork/src/" (23198 21133 553968 523000) "../" "mywork/" "./")
+
+ ("/home/luke/Documents/eclipse-workspace/mywork/" (23198 21035 185670 26000) "../" ".classpath" ".settings/" "./" ".project" "bin/" "src/")
+
+ ("/home/luke/Documents/eclipse-workspace/" (23198 21216 463377 558000) "../" ".metadata/" "mywork/" "./" ".recommenders/")
+
+ ("/home/luke/Documents/qmk_firmware/" (23198 8984 627377 888000) "../" ".travis.yml" "book.json" "message.mk" "keyboards/" "build_test.mk" "quantum/" "Vagrantfile" "Dockerfile" "./" "drivers/" "CODE_OF_CONDUCT.md" "lib/" "secrets.tar.enc" "layouts/" "common.mk" "util/" "iris_rev2_digipack.hex" ".vscode/" "readme.md" "build_layout.mk" ".gitmodules" "autocomplete.sh" "license_Modified_BSD.md" ".build/" "Makefile" "bootloader.mk" "build_full_test.mk" "docs/" "license_GPLv3.md" "tmk_core/" "shell.nix" ".gitignore" "tests/" ".clang_complete" "reset.py" "users/" "build_keyboard.mk" "LICENSE" ".gitattributes" ".editorconfig" "common_features.mk" ".git/" "license_GPLv2.md" "testlist.mk")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/lewisridden/" (23137 29444 297061 479000) "../" "./" "rules.mk" "config.h" "keymap.c")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/hexwire/" (23137 29444 297061 479000) "../" "./" "rules.mk" "config.h" "keymap.c")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/rev1/" (23137 29444 297061 479000) "../" "rev1.c" "./" "rules.mk" "config.h" "rev1.h")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/rev2/" (23137 29444 297061 479000) "../" "./" "rev2.c" "rules.mk" "config.h" "rev2.h")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/keymaps/" (23198 6588 835520 903000) "../" "./" "digipack/" "hexwire/" "default/" "lewisridden/")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/iris/" (23137 29444 297061 479000) "../" "split_util.c" "./" "serial.h" "rev1/" "rules.mk" "config.h" "split_rgb.c" "rev2/" "iris.c" "readme.md" "split_util.h" "serial.c" "keymaps/" "iris.h" "matrix.c" "i2c.c" "i2c.h" "split_rgb.h")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/infinity60/" (23137 29444 296061 479000) "../" "led_controller.c" "chconf.h" "./" "led_controller.h" "rules.mk" "led.c" "config.h" "mcuconf.h" "infinity60.c" "readme.md" "MEMO.txt" "keymaps/" "matrix.c" "halconf.h" "bootloader_defs.h" "infinity60.h")
+
+ ("/home/luke/Documents/qmk_firmware/keyboards/" (23137 29444 397061 484000) "vision_division/" "bfake/" "daisy/" "s60_x/" "../" "jm60/" "sixkeyboard/" "obelus/" "phantom/" "jd40/" "frosty_flake/" "chimera_ortho/" "uk78/" "deltasplit75/" "xmmx/" "tkc1800/" "acr60/" "ergodox_ez/" "org60/" "./" "knops/" "m10a/" "infinity60/" "orthodox/" "ergodone/" "xd60/" "dichotemy/" "alu84/" "niu_mini/" "jj40/" "hhkb/" "kbd75/" "atomic/" "eco/" "amj60/" "ergo42/" "miuni32/" "iris/" "mechmini/" "prime_r/" "pearl/" "jc65/" "planck/" "meira/" "gh60/" "whitefox/" "tv44/" "eagle_viper/" "pegasushoof/" "viterbi/" "fc980c/" "lightsaver/" "bananasplit/" "ergodox/" "tada68/" "kona_classic/" "atreus/" "fc660c/" "alps64/" "clueboard/" "tiger_lily/" "levinson/" "jd45/" "readme.md" "do60/" "k_type/" "nano/" "dk60/" "satan/" "kinesis/" "bmini/" "roadkit/" "mitosis/" "subatomic/" "nyquist/" "sweet16/" "christmas_tree/" "the_ruler/" "converter/" "maxipad/" "gh80_3000/" "felix/" "kmac/" "octagon/" "mf68/" "6ball/" "v60_type_r/" "amj40/" "9key/" "gherkin/" "chibios_test/" "kitten_paw/" "ymd96/" "lfkeyboards/" "kc60/" "crawlpad/" "katana60/" "s65_x/" "four_banger/" "ergodox_infinity/" "lets_split/" "dz60/" "hadron/" "mt40/" "preonic/" "handwired/" "minidox/" "bantam44/" "mf68_ble/" "xd75/" "amjpad/" "tomato/" "cospad/" "atreus62/" "gonnerd/" "ps2avrGB/")
+
+ ("/home/luke/Downloads/sbagen-alsa-master/" (20294 24824 0 0) "scripts/" "../" "wave.txt" "mk-libmad-linux" "mk-libmad-linux-xarm" "theory2.txt" "mk-debug" "./" "ChangeLog.txt" "focus.txt" "mk-tremor-mingw" "theory.txt" "README.txt" "mk-netbsd" "mk-tremor-linux" "TODO.txt" "mk-tremor-linux-xarm" "river2.ogg" "mk-mingw32" "oldlib/" "oggdec.c" "examples/" "tmp-prog" "mk-xmingw" "river1.ogg" "mk-ansi" "mk-nodevdsp" "mp3dec.c" "readme-windows.txt" "mk-macosx" "mk-msvc.txt" "mk-libmad-mingw" "SBAGEN.txt" "sbagen.c" "mk-blackfin" "mk-xarm" "README.alsa.txt" "holosync.txt" "mk" "mk-alsa" "COPYING.txt" "focus2.txt")
+
+ ("/home/luke/Downloads/" (23196 5256 696508 374000) "fonts.zip" "gameyob_dsi.nds" "libflashplayer.so" "../" "sbagen-alsa-master/" "openrecovery-twrp-2.8.5.2-hammerhead.img" "./" "AMS_COE.pdf" "gameyob.cia" "sbagen-alsa-master.zip" "SR5-SuperSU-v2.82-SR5-20171001224502.zip" "wood1.60/" "README.txt" "twrp-3.2.1-1-hammerhead.img" "362542-gameyob.zip" "R4i/" "Luke.pdf" "5b2.jpg" "gameyob.nds" "license.pdf" "twrp-3.2.1-0-twrp.img" "TIR Lesson 03 Worksheets - Your Infinite Mind.pdf" "void-live-x86_64-20171007.iso" "lsdj5_7_8-stable.zip" "woodr4/" "50695_anime_girls_computer_girl.jpg" "readme.txt" "sbagen/" "usr/" "LGPL/")
+
+ ("/home/luke/Downloads/sbagen/sbagen-1.4.4/" (23196 3076 416679 310000) "scripts/" "../" "wave.txt" "mk-libmad-linux" "mk-libmad-linux-xarm" "theory2.txt" "mk-debug" "libvorbisidec-1.0.2+svn16259/" "./" "ChangeLog.txt" "focus.txt" "temp.c" "mk-tremor-mingw" "theory.txt" "libs/" "README.txt" "mk-netbsd" "mk-tremor-linux" "TODO.txt" "mk-tremor-linux-xarm" "mk~" "river2.ogg" "mk-mingw32" "oggdec.c" "examples/" "mk-xmingw" "river1.ogg" "mk-ansi" "mk-nodevdsp" "mp3dec.c" "readme-windows.txt" "mk-macosx" "#mk#" "mk-msvc.txt" "mk-libmad-mingw" "SBAGEN.txt" ".#mk" "sbagen.c" "mk-blackfin" "mk-xarm" "holosync.txt" "libvorbisidec_1.0.2+svn16259.orig.tar.gz" "mk" "COPYING.txt" "focus2.txt")
+
+ ("/home/luke/Downloads/sbagen/" (23196 2413 149301 237000) "../" "sbagen-1.4.4/" "./" "sbagen-1.4.4.tgz")
+
+ ("/home/luke/Downloads/sbagen-1.4.5/" (23196 1301 429900 952000) "scripts/" "../" "wave.txt" "mk-libmad-linux" "mk-libmad-linux-xarm" "theory2.txt" "mk-debug" "./" "ChangeLog.txt" "focus.txt" "temp.c" "mk-tremor-mingw" "theory.txt" "libs/" "sbagen.o" "README.txt" "mk-netbsd" "mk-tremor-linux" "TODO.txt" "mk-tremor-linux-xarm" "mk~" "river2.ogg" "mk-mingw32" "test.c" "oggdec.c" "examples/" "mk-xmingw" "river1.ogg" "mk-ansi" "mk-nodevdsp" "mp3dec.c" "readme-windows.txt" "mk-macosx" "sbagen.c~" "mk-msvc.txt" "mk-libmad-mingw" "SBAGEN.txt" "sbagen.c" "mk-blackfin" "mk-xarm" "libs_backup/" "holosync.txt" "mk" "COPYING.txt" "focus2.txt")
+
+ ("/home/luke/.emacs.d/elpa/jdee-20180218.919/" (23186 3640 824607 254000) "jdee-ejb.elc" "../" "jdee-make.elc" "jdee-xref.el" "jdee-refactor.elc" "jdee-util.elc" "jdee-bookmark.elc" "jdee-gen.el" "jdee-stat.el" "jdee-font-lock.elc" "jdee-complete.el" "jdee-bug.elc" "jdee-parse-expr.elc" "./" "jdee-compile.el" "jdee-run.elc" "jdee-ejb.el" "jdee-flycheck.elc" "jdee-dbo.el" "jdee-which-method.elc" "beanshell.elc" "jdee-files.elc" "jdee-help.el" "jdee-refactor.el" "jdee-java-properties.el" "efc.elc" "jdee-cygwin.elc" "jdee-find.el" "jdee-help.elc" "jdee-jdb.elc" "jdee-open-source.el" "jdee-backend.el" "jdee-widgets.elc" "jdee-archive.elc" "jdee-xref.elc" "jdee.info" "jdee-import.elc" "jdee-bytecode.el" "jdee.el" "jdee-compile.elc" "jdee-pkg.el" "jdee-junit.el" "jdee-checkstyle.el" "jdee-bug.el" "jdee-java-grammar.el" "jdee-javadoc.elc" "jdee-java-grammar.elc" "jdee-plugins.el" "efc.el" "jdee-project.el" "jdee-gen.elc" "jdee-db.elc" "jdee-custom.el" "jdee-parse.elc" "jdee-autoloads.el" "jdee-abbrev.el" "jcomplete.elc" "jdee-maven.el" "jdee-project-file.elc" "jdee-wiz.el" "jdee-juci.el" "jdee.elc" "jdee-backend.elc" "jdee-class.elc" "jdee-find.elc" "jdee-classpath.elc" "jdee-widgets.el" "jdee-annotations.el" "jdee-jdk-manager.el" "jdee-util.el" "jdee-abbrev.elc" "jdee-import.el" "jdee-annotations.elc" "jdee-package.el" "jdee-issues.el" "jdee-deps.el" "jdee-parse.el" "jdee-imenu.elc" "jdee-javadoc.el" "jdee-package.elc" "jdee-archive.el" "jdee-ant.el" "jdee-log.el" "jdee-classpath.el" "jdee-stacktrace.elc" "jdee-test.el" "jdee-plugins.elc" "jdee-project.elc" "jdee-activator.elc" "jdee-ecj-flymake.el" "jdee-log.elc" "jdee-complete.elc" "jdee-javadoc-gen.elc" "jdee-font-lock.el" "jdee-stacktrace.el" "jdee-which-method.el" "jdee-stat.elc" "jdee-deps.elc" "jdee-imenu.el" "jdee-db.el" "jdee-class.el" "jdee-javadoc-gen.el" "jdee-junit.elc" "jdee-bookmark.el" "jcomplete.el" "jdee-dbo.elc" "jdee-bytecode.elc" "jdee-juci.elc" "jdee-jdk-manager.elc" "jdee-custom.elc" "jdee-cygwin.el" "jdee-parse-expr.el" "dir" "jdee-flycheck.el" "jdee-project-file.el" "jdee-checkstyle.elc" "jdee-files.el" "jdee-open-source.elc" "jdee-bsh.elc" "jdee-dbs.elc" "jdee-test.elc" "jdee-activator.el" "beanshell.el" "jdee-issues.elc" "jdee-jdb.el" "jdee-keys.elc" "jdee-java-properties.elc" "jdee-bsh.el" "jdee-run.el" "jdee-maven.elc" "jdee-wiz.elc" "jdee-keys.el" "jdee-ecj-flymake.elc" "jdee-ant.elc" "jdee-make.el" "jdee-dbs.el")
+
+ ("/home/luke/Documents/Rust/projects/hello_world/" (23159 2860 555175 630000) "../" "./" "Cargo.toml" "src/" ".gitignore" ".git/")
+
+ ("/home/luke/Documents/Scala/hello/src/main/scala/example/" (23138 52522 433213 750000) "../" "Hello.scala~" "./" "Hello.scala")
+
+ ("/home/luke/.sbt/1.0/plugins/" (23138 52515 818213 435000) "../" "target/" "./" "project/" "plugins.sbt~" "build.sbt" "plugins.sbt")
+
+ ("/home/luke/Documents/Scala/hello/" (23138 52791 816226 595000) "../" "target/" "./" "project/" "build.sbt~" "build.sbt" "src/" ".ensime" ".ensime_cache/")
+
+ ("/home/luke/Documents/Rust/projects/" (23159 2256 616760 720000) "../" "./" "hello_world/")
+
+ ("/home/luke/Documents/Rust/" (23159 2252 443792 342000) "../" "./" "projects/")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/parallelCollections/" (23138 52922 269232 816000) "WarmUp.scala" "../" "Ex3MostCommonNumber.scala" "Ex2P12DecodeSeq.scala" "./" "Ex1ThirdElement.scala")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/euler/" (23138 57434 663447 983000) "../" "./" "Euler_P01.scala")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/collection/" (23138 52922 268232 816000) "../" "P03.scala" "./" "P05.scala" "P07.scala" "P06.scala" "P01.scala" "P08.scala" "P02.scala" "P04.scala")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/algorithms/" (23138 52922 268232 816000) "../" "./" "P01.scala")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/s99/" (23138 56930 979423 966000) "S99_P25.scala" "../" "S99_P27.scala" "S99_P08.scala" "S99_P28.scala" "S99_P20.scala" "S99_P17.scala" "S99_P22.scala" "./" "S99_P09.scala" "S99_P06.scala" "S99_P26.scala" "S99_P18.scala" "S99_P11.scala" "S99_P03.scala" "S99_P12.scala" "S99_P31.scala" "S99_P01.scala" "S99_P07.scala" "S99_P24.scala" "S99_P15.scala" "S99_P14.scala" "S99_P23.scala" "S99_P05.scala" "S99_P10.scala" "S99_P04.scala" "S99_P32.scala" "S99_P13.scala" "S99_P02.scala" "S99_P21.scala" "S99_P16.scala" "S99_P19.scala")
+
+ ("/usr/" (23137 31002 707135 790000) "lib32/" "bin/" "./" "lib64/" "share/" "sbin/" "include/" "local/" "libexec/" "arm-none-eabi/" "x86_64-unknown-linux-gnu/" "lib/" "src/" "avr/" "../")
+
+ ("/usr/share/" (23137 52321 327064 436000) "p11-kit/" "applications/" "libdrm/" "nghttp2/" "themes/" "sounds/" "ponysay/" "doc/" "git-core/" "bash-completion/" "X11/" "PySolFC/" "irssi/" "fish/" "man/" "cgmanager/" "git/" "gst-plugins-base/" "iso-codes/" "gtk-doc/" "misc/" "aclocal/" "kde4/" "xml/" "mime/" "void-artwork/" "./" "gtk-2.0/" "alsa/" "zoneinfo/" "defaults/" "polkit-1/" "grub/" "fontconfig/" "perl5/" "texinfo/" "libthai/" "appdata/" "help/" "vi/" "libwacom/" "gnupg/" "i18n/" "enchant/" "GConf/" "os-prober/" "pkgconfig/" "ghostscript/" "m17n/" "terminfo/" "gettext/" "poppler/" "gitweb/" "examples/" "pixmaps/" "libgpg-error/" "xreader/" "ca-certificates/" "webkitgtk-3.0/" "info/" "vala/" "hwdata/" "emacs/" "licenses/" "glib-2.0/" "fonts/" "xbps.d/" "icons/" "awk/" "dhcpcd/" "pulseaudio/" "vulkan/" "locale/" "dbus-1/" "thumbnailers/" "zsh/" "bitlbee/" "hyphen/" "kbd/" "../" "feh/" "autoconf/")
+
+ ("/usr/share/emacs/" (23110 60249 827982 782000) "./" "25.3/" "site-lisp/" "../")
+
+ ("/usr/share/emacs/25.3/" (23110 60252 466982 907000) "./" "lisp/" "site-lisp/" "etc/" "../")
+
+ ("/usr/share/emacs/25.3/lisp/" (23110 60252 51982 888000) "ps-samp.el.gz" "find-dired.elc" "paren.el.gz" "find-lisp.elc" "vt-control.elc" "descr-text.elc" "kmacro.el.gz" "ffap.el.gz" "dos-vars.el.gz" "tabify.elc" "makesum.el.gz" "printing.el.gz" "fringe.el.gz" "dos-w32.el.gz" "ps-bdf.el.gz" "org/" "url/" "rot13.el.gz" "hfy-cmap.elc" "dom.elc" "dired.el.gz" "jka-cmpr-hook.el.gz" "epa-file.elc" "ibuffer.el.gz" "cdl.el.gz" "icomplete.elc" "epa-file.el.gz" "epa-dired.elc" "ses.el.gz" "misc.elc" "buff-menu.el.gz" "wid-browse.elc" "hexl.elc" "msb.el.gz" "thingatpt.el.gz" "custom.el.gz" "hexl.el.gz" "hilit-chg.elc" "env.elc" "cus-dep.el.gz" "image-dired.elc" "arc-mode.el.gz" "ps-samp.elc" "select.elc" "dom.el.gz" "autoarg.el.gz" "mh-e/" "talk.el.gz" "mail/" "subdirs.el" "wid-edit.el.gz" "ses.elc" "help.el.gz" "tempo.elc" "avoid.elc" "saveplace.elc" "tmm.elc" "kermit.el.gz" "indent.el.gz" "iimage.elc" "epa-mail.elc" "tooltip.elc" "dynamic-setting.el.gz" "loadhist.elc" "xt-mouse.el.gz" "allout.elc" "timezone.el.gz" "soundex.el.gz" "help-macro.el.gz" "epg-config.elc" "filecache.elc" "obsolete/" "ido.elc" "bindings.el.gz" "hfy-cmap.el.gz" "autoinsert.elc" "newcomment.elc" "cus-face.el.gz" "filenotify.elc" "find-file.elc" "image-file.elc" "edmacro.elc" "replace.el.gz" "format.elc" "cedet/" "autorevert.elc" "dnd.el.gz" "window.elc" "sb-image.elc" "view.el.gz" "type-break.el.gz" "desktop.elc" "htmlfontify.el.gz" "ffap.elc" "dframe.elc" "find-file.el.gz" "bs.elc" "time.el.gz" "shadowfile.elc" "tool-bar.elc" "midnight.elc" "delsel.elc" "dabbrev.el.gz" "userlock.elc" "epa-dired.el.gz" "htmlfontify.elc" "scroll-bar.elc" "misc.el.gz" "find-dired.el.gz" "pcmpl-cvs.elc" "abbrev.el.gz" "ehelp.el.gz" "help-at-pt.elc" "hi-lock.el.gz" "help-fns.elc" "notifications.el.gz" "thingatpt.elc" "autoinsert.el.gz" "window.el.gz" "pcmpl-unix.el.gz" "time-stamp.elc" "ansi-color.el.gz" "startup.el.gz" "elec-pair.elc" "epa-mail.el.gz" "color.elc" "pcmpl-rpm.el.gz" "outline.elc" "jit-lock.el.gz" "mb-depth.elc" "w32-vars.elc" "disp-table.elc" "battery.elc" "chistory.el.gz" "x-dnd.elc" "md4.el.gz" "facemenu.el.gz" "proced.elc" "tar-mode.el.gz" "profiler.elc" "fringe.elc" "thumbs.el.gz" "comint.elc" "cdl.elc" "minibuffer.elc" "ruler-mode.el.gz" "eshell/" "epg-config.el.gz" "delsel.el.gz" "image-mode.elc" "pcmpl-linux.elc" "version.elc" "leim/" "gs.elc" "info.el.gz" "epa-hook.el.gz" "ps-print.el.gz" "autorevert.el.gz" "time-stamp.el.gz" "register.elc" "subr.elc" "ruler-mode.elc" "pcomplete.el.gz" "COPYING" "emulation/" "font-core.elc" "w32-vars.el.gz" "outline.el.gz" "delim-col.elc" "xt-mouse.elc" "font-lock.elc" "wid-browse.el.gz" "info-look.elc" "scroll-lock.el.gz" "erc/" "savehist.el.gz" "mouse.el.gz" "dired-aux.el.gz" "scroll-bar.el.gz" "paren.elc" "double.elc" "strokes.elc" "json.el.gz" "linum.elc" "tabify.el.gz" "comint.el.gz" "format-spec.elc" "scroll-lock.elc" "obarray.elc" "flow-ctrl.el.gz" "xml.elc" "tool-bar.el.gz" "midnight.el.gz" "pcmpl-linux.el.gz" "calculator.elc" "scroll-all.el.gz" "image-dired.el.gz" "follow.elc" "edmacro.el.gz" "json.elc" "minibuf-eldef.elc" "register.el.gz" "minibuffer.el.gz" "sb-image.el.gz" "foldout.elc" "gs.el.gz" "cus-edit.elc" "iimage.el.gz" "forms.elc" "menu-bar.elc" "calculator.el.gz" "uniquify.el.gz" "frameset.el.gz" "array.el.gz" "find-lisp.el.gz" "strokes.el.gz" "README" "newcomment.el.gz" "tempo.el.gz" "repeat.el.gz" "timezone.elc" "ebuff-menu.elc" "select.el.gz" "mouse-copy.elc" "dynamic-setting.elc" "speedbar.el.gz" "pcomplete.elc" "lpr.elc" "hex-util.elc" "ibuf-macs.elc" "mb-depth.el.gz" "find-cmd.el.gz" "wdired.el.gz" "indent.elc" "help-mode.el.gz" "help.elc" "emacs-lock.el.gz" "informat.elc" "icomplete.el.gz" "expand.elc" "replace.elc" "ps-mule.el.gz" "desktop.el.gz" "rect.el.gz" "thumbs.elc" "cus-theme.el.gz" "expand.el.gz" "color.el.gz" "tmm.el.gz" "proced.el.gz" "profiler.el.gz" "face-remap.el.gz" "allout.el.gz" "version.el.gz" "cus-start.el.gz" "abbrev.elc" "soundex.elc" "align.el.gz" "ps-mule.elc" "pcmpl-gnu.elc" "faces.el.gz" "progmodes/" "button.elc" "jka-cmpr-hook.elc" "type-break.elc" "savehist.elc" "vcursor.elc" "ps-def.elc" "isearchb.el.gz" "buff-menu.elc" "reposition.elc" "files-x.el.gz" "char-fold.elc" "disp-table.el.gz" "widget.elc" "dframe.el.gz" "double.el.gz" "tooltip.el.gz" "language/" "char-fold.el.gz" "shadowfile.el.gz" "windmove.elc" "image.el.gz" "mwheel.el.gz" "server.el.gz" "shell.el.gz" "reveal.elc" "talk.elc" "custom.elc" "macros.el.gz" "ielm.elc" "hippie-exp.elc" "locate.el.gz" "image-file.el.gz" "isearch.el.gz" "facemenu.elc" "hi-lock.elc" "dirtrack.elc" "userlock.el.gz" "filenotify.el.gz" "foldout.el.gz" "tar-mode.elc" "hl-line.elc" "mouse-copy.el.gz" "mouse-drag.el.gz" "pcmpl-rpm.elc" "xml.el.gz" "ebuff-menu.el.gz" "ibuffer.elc" "bindings.elc" "minibuf-eldef.el.gz" "cus-theme.elc" "follow.el.gz" "cus-dep.elc" "man.el.gz" "simple.el.gz" "scroll-all.elc" "widget.el.gz" "xwidget.el.gz" "kermit.elc" "doc-view.el.gz" "hippie-exp.el.gz" "help-fns.el.gz" "filecache.el.gz" "epg.elc" "play/" "dos-fns.elc" "server.elc" "printing.elc" "info.elc" "image.elc" "ps-print.elc" "t-mouse.elc" "x-dnd.el.gz" "mpc.elc" "ls-lisp.el.gz" "view.elc" "man.elc" "loadup.el" "term.el.gz" "skeleton.elc" "hl-line.el.gz" "term/" "textmodes/" "generic-x.el.gz" "epa.el.gz" "allout-widgets.el.gz" "pcmpl-cvs.el.gz" "dired.elc" "password-cache.el.gz" "cus-load.el" "dos-w32.elc" "generic-x.elc" "cmuscheme.el.gz" "tutorial.el.gz" "autoarg.elc" "loadhist.el.gz" "array.elc" "align.elc" "whitespace.el.gz" "ldefs-boot.el" "pcmpl-gnu.el.gz" "faces.elc" "dos-fns.el.gz" "dabbrev.elc" "epa.elc" "time.elc" "format.el.gz" "arc-mode.elc" "vt100-led.el.gz" "w32-fns.elc" "ido.el.gz" "w32-fns.el.gz" "msb.elc" "shell.elc" "bookmark.elc" "vcursor.el.gz" "subr.el.gz" "t-mouse.el.gz" "skeleton.el.gz" "ansi-color.elc" "recentf.elc" "kmacro.elc" "tutorial.elc" "loaddefs.el" "recentf.el.gz" "cus-start.elc" "calc/" "filesets.el.gz" "rfn-eshadow.el.gz" "vc/" "info-xref.elc" "password-cache.elc" "net/" "master.el.gz" "echistory.el.gz" "font-lock.el.gz" "completion.el.gz" "elide-head.el.gz" "doc-view.elc" "makesum.elc" "wdired.elc" "wid-edit.elc" "pcmpl-x.elc" "mouse-drag.elc" "windmove.el.gz" "isearchb.elc" "ibuf-ext.el.gz" "obarray.el.gz" "simple.elc" "md4.elc" "cus-edit.el.gz" "dired-x.el.gz" "chistory.elc" "allout-widgets.elc" "apropos.el.gz" "jka-compr.elc" "novice.el.gz" "vt100-led.elc" "mouse.elc" "find-cmd.elc" "ibuf-ext.elc" "novice.elc" "dnd.elc" "rfn-eshadow.elc" "electric.el.gz" "macros.elc" "international/" "reveal.el.gz" "finder.elc" "isearch.elc" "elide-head.elc" "emacs-lock.elc" "finder.el.gz" "apropos.elc" "cus-face.elc" "winner.elc" "descr-text.el.gz" "bs.el.gz" "filesets.elc" "repeat.elc" "epg.el.gz" "forms.el.gz" "ezimage.elc" "ehelp.elc" "finder-inf.el" "completion.elc" "cmuscheme.elc" "reposition.el.gz" "files.elc" "lpr.el.gz" "woman.elc" "jka-compr.el.gz" "button.el.gz" "gnus/" "nxml/" "ielm.el.gz" "misearch.el.gz" "misearch.elc" "face-remap.elc" "files.el.gz" "frameset.elc" "tree-widget.el.gz" "ezimage.el.gz" "info-xref.el.gz" "elec-pair.el.gz" "dired-aux.elc" "env.el.gz" "ibuf-macs.el.gz" "master.elc" "help-macro.elc" "rot13.elc" "uniquify.elc" "files-x.elc" "epa-hook.elc" "dirtrack.el.gz" "frame.elc" "help-mode.elc" "font-core.el.gz" "case-table.elc" "whitespace.elc" "format-spec.el.gz" "hilit-chg.el.gz" "battery.el.gz" "woman.el.gz" "ls-lisp.elc" "frame.el.gz" "bookmark.el.gz" "tree-widget.elc" "vt-control.el.gz" "xwidget.elc" "pcmpl-unix.elc" "electric.elc" "calendar/" "dired-x.elc" "image-mode.el.gz" "case-table.el.gz" "sort.elc" "speedbar.elc" "composite.elc" "delim-col.el.gz" "rect.elc" "ps-bdf.elc" "informat.el.gz" "saveplace.el.gz" "echistory.elc" "winner.el.gz" "mpc.el.gz" "pcmpl-x.el.gz" "info-look.el.gz" "dos-vars.elc" "composite.el.gz" "menu-bar.el.gz" "sort.el.gz" "ps-def.el.gz" "flow-ctrl.elc" "jit-lock.elc" "startup.elc" "notifications.elc" "term.elc" "emacs-lisp/" "mwheel.elc" "help-at-pt.el.gz" "avoid.el.gz" "linum.el.gz" "hex-util.el.gz" "imenu.elc" "imenu.el.gz" "locate.elc" "../" "./")
+
+ ("/home/luke/.emacs.d/elpa/scala-mode-1.0.0/" (23138 52523 522213 802000) "../" "scala-mode-paragraph.el" "scala-mode-autoloads.el" "scala-mode-map.elc" "./" "scala-mode-imenu.el" "scala-mode-lib.el" "scala-mode-paragraph.elc" "scala-mode-lib.elc" "#scala-mode-map.el#" "scala-mode-indent.elc" "ob-scala.el" "scala-mode.elc" "scala-mode-pkg.el" "scala-mode-syntax.elc" "scala-mode-imenu.elc" "scala-mode-fontlock.elc" "scala-mode-indent.el" "scala-mode-prettify-symbols.elc" "scala-mode.el" "scala-mode-syntax.el" "scala-mode-prettify-symbols.el" "scala-mode-map.el" "scala-mode-fontlock.el")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/scalania/" (23138 52922 269232 816000) "../" "./" "algorithms/" "euler/" "parallelCollections/" "s99/" "collection/" "package.scala")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/japila/" (23138 52922 268232 816000) "../" "./" "scalania/")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/pl/" (23138 52922 268232 816000) "../" "japila/" "./")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/scala/" (23138 52922 268232 816000) "../" "./" "pl/")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/main/" (23138 52922 268232 816000) "../" "./" "scala/")
+
+ ("/home/luke/Documents/Scala/scalania/exercises/src/" (23138 52922 270232 816000) "../" "./" "main/" "test/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,229 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("HelloWorld" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [60 73]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [36 191]))                  
+                :type "class")
+                nil [1 194]))          
+      :file "HelloWorld.java"
+      :pointmax 195
+      :fsize 194
+      :lastmodtime '(23191 46509 983456 506000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.Scanner" include nil nil [1 26])
+            ("ScannerTest" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [84 97]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [60 485])
+                    ("num1" variable (:type "int") (reparse-symbol class_member_declaration) [372 401])
+                    ("num2" variable (:type "int") (reparse-symbol class_member_declaration) [403 432]))                  
+                :type "class")
+                nil [28 485]))          
+      :file "ScannerTest.java"
+      :pointmax 489
+      :fsize 488
+      :lastmodtime '(23200 57975 449678 645000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.Scanner" include nil nil [1 26])
+            ("ScannerHello" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [84 97]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [60 364]))                  
+                :type "class")
+                nil [28 367]))          
+      :file "ScannerHello.java"
+      :pointmax 368
+      :fsize 367
+      :lastmodtime '(23207 36730 221508 313000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("StringSub2" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [56 69]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [32 693]))                  
+                :type "class")
+                nil [1 696]))          
+      :file "StringSub2.java"
+      :pointmax 697
+      :fsize 696
+      :lastmodtime '(23207 37567 676810 412000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("CompareTest" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [61 74]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [37 462]))                  
+                :type "class")
+                nil [1 464]))          
+      :file "CompareTest.java"
+      :pointmax 465
+      :fsize 464
+      :lastmodtime '(23207 41136 200439 34000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("IncTest" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("x" variable
+                       (:typemodifiers ("static")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [28 41])
+                    ("y" variable
+                       (:typemodifiers ("static")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [46 63])
+                    ("z" variable
+                       (:typemodifiers ("static")
+                        :type "int")
+                        (reparse-symbol class_member_declaration) [68 85])
+                    ("printIt" function
+                       (:typemodifiers ("public" "static")
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [91 187])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [221 234]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [197 368]))                  
+                :type "class")
+                nil [1 370]))          
+      :file "IncTest.java"
+      :pointmax 371
+      :fsize 370
+      :lastmodtime '(23207 38738 908858 933000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.Scanner" include nil nil [1 26])
+            ("Max" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [75 88]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [51 332]))                  
+                :type "class")
+                nil [27 334]))          
+      :file "Max.java"
+      :pointmax 335
+      :fsize 334
+      :lastmodtime '(23218 47187 138216 862000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.Scanner" include nil nil [1 26])
+            ("SalaryComputer" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [86 99]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [62 1375]))                  
+                :type "class")
+                nil [27 1377]))          
+      :file "SalaryComputer.java"
+      :pointmax 1378
+      :fsize 1377
+      :lastmodtime '(23218 48149 342489 935000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("java.util.*" include nil nil [1 20])
+            ("Task4" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [75 88]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [51 647]))                  
+                :type "class")
+                nil [21 649]))          
+      :file "Task4.java"
+      :pointmax 650
+      :fsize 649
+      :lastmodtime '(23218 48454 112351 511000)
+      :unmatched-syntax nil))
+  :file "!home!luke!Documents!University!progfun!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

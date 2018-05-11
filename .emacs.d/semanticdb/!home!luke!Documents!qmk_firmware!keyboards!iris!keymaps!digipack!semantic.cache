@@ -1,0 +1,144 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode c-mode
+      :tags 
+        '( ("iris.h" include nil nil [1 18])
+            ("action_layer.h" include nil nil [19 44])
+            ("eeconfig.h" include nil nil [45 66])
+            ("keymap_config" variable
+               (:typemodifiers ("extern")
+                :type ("keymap_config_t" type (:type "class") nil nil))
+                nil [68 105])
+            ("_WORKMANP" variable (:constant-flag t) nil [115 124])
+            ("_LOWER" variable (:constant-flag t) nil [135 141])
+            ("_RAISE" variable (:constant-flag t) nil [152 158])
+            ("_ADJUST" variable (:constant-flag t) nil [169 176])
+            ("custom_keycodes" type
+               (:members 
+                  ( ("WORKMANP" variable
+                       (:constant-flag t
+                        :default-value (217 227)
+                        :type "int")
+                        (reparse-symbol enumsubparts) [206 227])
+                    ("LOWER" variable
+                       (:constant-flag t
+                        :type "int")
+                        (reparse-symbol enumsubparts) [231 237])
+                    ("RAISE" variable
+                       (:constant-flag t
+                        :type "int")
+                        (reparse-symbol enumsubparts) [240 246])
+                    ("ADJUST" variable
+                       (:constant-flag t
+                        :type "int")
+                        (reparse-symbol enumsubparts) [249 256]))                  
+                :type "enum")
+                nil [181 259])
+            ("KC_" variable (:constant-flag t) nil [269 272])
+            ("_______" variable (:constant-flag t) nil [289 296])
+            ("KC_LOWR" variable (:constant-flag t) nil [314 321])
+            ("KC_RASE" variable (:constant-flag t) nil [336 343])
+            ("KC_RST" variable (:constant-flag t) nil [358 364])
+            ("KC_BL_S" variable (:constant-flag t) nil [379 386])
+            ("keymaps" variable
+               (:dereference 3
+                :default-value "{
+
+  [_WORKMANP] = KC_KEYMAP(
+  //,----+----+----+----+----+----.              ,----+----+----+----+----+----.
+     ESC ,EXLM, AT ,HASH,DLR ,PERC,               CIRC,AMPR,ASTR,LPRN,RPRN,BSPC,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+     TAB , Q  , D  , R  , W  , B  ,                J  , F  , U  , P  ,SCLN,DEL ,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+     RASE, A  , S  , H  , T  , G  ,                Y  , N  , E  , O  , I  ,QUOT,
+  //|----+----+----+----+----+----+----.    ,----|----+----+----+----+----+----|
+     LSFT, Z  , X  , M  , C  , V  ,SPC ,     ENT , K  , L  ,COMM,DOT ,SLSH,RSFT,
+  //`----+----+----+--+-+----+----+----/    \\----+----+----+----+----+----+----'
+                       LCTL,LOWR,SPC ,         ENT ,LGUI,LALT
+  //                  `----+----+----'        `----+----+----'
+  ),
+
+  [_LOWER] = KC_KEYMAP(
+  //,----+----+----+----+----+----.              ,----+----+----+----+----+----.
+     TILD, 1  , 2  , 3  , 4  , 5  ,                6  , 7  , 8  , 9  , 0  ,    ,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+     RST ,EXLM, AT ,HASH,DLR ,PERC,               CIRC,AMPR,ASTR,LPRN,RPRN,BSPC,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+     DEL ,    ,LEFT,RGHT, UP ,LCBR,               RCBR, P4 , P5 , P6 ,PLUS,PIPE,
+  //|----+----+----+----+----+----+----.    ,----|----+----+----+----+----+----|
+     BL_S,    ,    ,    ,DOWN,LBRC,DEL ,     DEL ,RBRC, P1 , P2 , P3 ,MINS,    ,
+  //`----+----+----+--+-+----+----+----/    \\----+----+----+----+----+----+----'
+                           ,    ,DEL ,         DEL ,    , P0 
+  //                  `----+----+----'        `----+----+----'
+  ),
+
+  [_RAISE] = KC_KEYMAP(
+  //,----+----+----+----+----+----.              ,----+----+----+----+----+----.
+     F12 , F1 , F2 , F3 , F4 , F5 ,                F6 , F7 , F8 , F9 ,F10 ,F11 ,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+         ,EXLM, AT ,HASH,DLR ,PERC,               CIRC,AMPR,ASTR,LPRN,RPRN,    ,
+  //|----+----+----+----+----+----|              |----+----+----+----+----+----|
+         ,MPRV,MNXT,VOLU,PGUP,UNDS,               LEFT,DOWN,UP  ,RGHT,END ,BSLS,
+  //|----+----+----+----+----+----+----.    ,----|----+----+----+----+----+----|
+     MUTE,MSTP,MPLY,VOLD,PGDN,MINS,    ,         ,PLUS,EQL ,    ,    ,    ,    ,
+  //`----+----+----+--+-+----+----+----/    \\----+----+----+----+----+----+----'
+                           ,    ,    ,             ,    ,    
+  //                  `----+----+----'        `----+----+----'
+  ),
+
+  [_ADJUST] = KEYMAP(
+  //,--------+--------+--------+--------+--------+--------.                          ,--------+--------+--------+--------+--------+--------.
+      _______, _______, _______, _______, _______, _______,                            _______, _______, _______, _______, _______, _______,
+  //|--------+--------+--------+--------+--------+--------|                          |--------+--------+--------+--------+--------+--------|
+      RGB_TOG, RGB_MOD, RGB_HUI, RGB_SAI, RGB_VAI, _______,                            _______, _______, _______, _______, _______, _______,
+  //|--------+--------+--------+--------+--------+--------|                          |--------+--------+--------+--------+--------+--------|
+      _______, DEBUG  , RGB_HUD, RGB_SAD, RGB_VAD, _______,                            _______, _______, _______, _______, _______, _______,
+  //|--------+--------+--------+--------+--------+--------+--------.        ,--------|--------+--------+--------+--------+--------+--------|
+      BL_STEP, RESET  , _______, _______, _______, _______, _______,          _______, _______, _______, _______, _______, _______, _______,
+  //`--------+--------+--------+----+---+--------+--------+--------/        \\--------+--------+--------+---+----+--------+--------+--------'
+                                      _______, _______, _______,                  _______, _______, _______
+  //                                `--------+--------+--------'                `--------+--------+--------'
+  )
+
+}"
+                :type ("PROGMEM" type (:type "class") nil nil))
+                nil [411 4630])
+            ("persistent_default_layer_set" function
+               (:arguments 
+                  ( ("default_layer" variable (:type ("uint16_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [4743 4766]))                  
+                :type "void")
+                nil [4709 4854])
+            ("process_record_user" function
+               (:arguments 
+                  ( ("keycode" variable (:type ("uint16_t" type (:type "class") nil nil)) (reparse-symbol arg-sub-list) [4881 4898])
+                    ("record" variable
+                       (:pointer 1
+                        :type ("keyrecord_t" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [4899 4919]))                  
+                :type "bool")
+                nil [4856 5876]))          
+      :file "keymap.c"
+      :pointmax 5877
+      :fsize 5876
+      :lastmodtime '(23200 56550 685694 250000)
+      :unmatched-syntax '((symbol 402 . 410) (CONST 396 . 401))
+      :lexical-table 
+        '(("KC_LOWR" . ((symbol "LOWER" 322 . 327)))
+          ("_WORKMANP" . ((number "0" 125 . 126)))
+          ("KC_RST" . ((symbol "RESET" 365 . 370)))
+          ("KC_BL_S" . ((symbol "BL_STEP" 387 . 394)))
+          ("_ADJUST" . ((number "16" 177 . 179)))
+          ("_______" . ((symbol "KC_TRNS" 297 . 304)))
+          ("_RAISE" . ((number "2" 159 . 160)))
+          ("KC_" . ((symbol "KC_TRNS" 273 . 280)))
+          ("_LOWER" . ((number "1" 142 . 143)))
+          ("KC_RASE" . ((symbol "RAISE" 344 . 349)))
+          )
+))
+  :file "!home!luke!Documents!qmk_firmware!keyboards!iris!keymaps!digipack!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

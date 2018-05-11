@@ -1,0 +1,30 @@
+;; Object semanticdb-project-database-file
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table"
+      :major-mode jdee-mode
+      :tags 
+        '( ("HelloWorld" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [56 69]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [32 117]))                  
+                :type "class")
+                nil [1 120]))          
+      :file "HelloWorld.java"
+      :pointmax 121
+      :fsize 120
+      :lastmodtime '(23200 54164 33434 221000)
+      :unmatched-syntax nil))
+  :file "!home!luke!Documents!Java!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
