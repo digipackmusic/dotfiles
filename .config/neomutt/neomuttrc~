@@ -1,0 +1,31 @@
+set realname="Luke English"
+set sendmail="/usr/bin/msmtp"
+set from="luke@ljenglish.net"
+set use_from=yes
+set edit_headers=yes
+
+set mbox_type=Maildir
+set folder=~/Mail/lje
+set spoolfile=+INBOX
+set header_cache=~/.cache/mutt
+set record = +sent
+set postponed = +drafts
+set mbox = +archive
+
+set editor = vim
+
+set sort=reverse-threads
+set sort_aux=date-received
+
+
+source ~/.config/neomutt/colors.muttrc
+source ~/.config/neomutt/gpg.rc
+
+# Sidebar
+set sidebar_visible = yes
+set sidebar_width = 14
+
+mailboxes `echo -n "+ "; find ~/Mail/lje/ -maxdepth 1 -type d -name "*" -printf "+'%f' "`
+
+auto_view text/html
+alternative_order text/plain text/enriched text/html

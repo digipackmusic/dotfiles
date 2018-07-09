@@ -1,0 +1,7 @@
+background yes
+out_to_console yes
+out_to_x no
+update_interval 1
+
+TEXT
+^fg(\#22ff22)${execi 5 python ~/.pymodoro/pymodoro.py -ah -t -o}

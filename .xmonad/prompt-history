@@ -1,0 +1,1 @@
+fromList [("Run or Raise: ",["subl3","redshift -x","subl3","gtk2fontsel","xfontsel","subl3","kitty","subl3","kitty","subl3","kitty","subl3"])]

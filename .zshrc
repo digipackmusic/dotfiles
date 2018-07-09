@@ -70,6 +70,8 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH="/opt/metasploit-framework/bin:/home/luke/.cabal/bin:$PATH"
 
+export VISUAL=nvim
+
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -95,3 +97,5 @@ export PATH="/opt/metasploit-framework/bin:/home/luke/.cabal/bin:$PATH"
    # alias zshconfig="mate ~/.zshrc"
    # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias config='/usr/bin/git --git-dir=/home/luke/.dotfiles/ --work-tree=/home/luke'
+alias vim=nvim
+alias vi=nvim
