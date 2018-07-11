@@ -1,0 +1,25 @@
+IMAPAccount lje
+
+Host imaps:mail.ljenglish.net
+User luke@ljenglish.net
+Pass ******
+
+SSLType IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+IMAPStore lje-remote
+Account lje
+
+MaildirStore lje-local
+Subfolders Verbatim
+Path ~/Mail/lje/
+Inbox ~/Mail/lje/INBOX
+
+Channel lje
+Master :lje-remote:
+Slave :lje-local:
+Patterns *
+Create Both
+SyncState *
+Expunge Slave
+
