@@ -1,0 +1,6 @@
+background      "#1B1D1E"
+grow_gravity    W
+icon_gravity    E
+icon_size       24
+decorations     none
+geometry        8x1+1820+0
