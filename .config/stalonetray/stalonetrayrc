@@ -6,7 +6,7 @@ background "#1B1D1E"
 kludges force_icons_size
 grow_gravity W
 icon_gravity E
-icon_size 12
+icon_size 16
 sticky true
 window_type dock
 window_layer bottom
